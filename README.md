@@ -1,0 +1,1 @@
+In this mini project, I have used the React and tailwind css
